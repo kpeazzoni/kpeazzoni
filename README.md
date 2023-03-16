@@ -12,7 +12,7 @@ Finishing up an intensive, 3-month software development boot camp at UT Austin. 
 > - Libraries, Tools, and Languages: Bootstrap, Materialize, React-Bootstrap
 
 ### Soft Skills
-> - Problem-solving, Multi-tasking, self-motivation, ability to work under pressure and deadline
+> - Problem-solving, Multi-tasking, self-motivation, ability to work under pressure and deadlines
 > - Leadership, Responsibility, Teamwork, Communication, Team management, Collaboration
 
 ***
