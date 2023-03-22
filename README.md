@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### DEVELOPER. CREATOR. COLLABORATOR
 ***
-Finishing up an intensive, 3-month software development boot camp at UT Austin. I learned how to develop real-world full-stack applications. Through this experience, I have discovered that I like seeing the big picture come to completion from front-end to back-end. I love working with others to troubleshoot their code and help solve problems. 
+Completed an intensive, 3-month software development boot camp from UT Austin mid-March. I learned how to develop real-world full-stack applications. Through this experience, I have discovered that I like seeing the big picture come to completion from front-end to back-end. I love working with others to troubleshoot their code and help solve problems. 
 
 ### Technical Skills
 > - Programming Languages: JavaScript, HTML, CSS
